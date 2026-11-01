@@ -1,0 +1,25 @@
+# Xcode / macOS
+build/
+DerivedData/
+*.xcuserdata
+xcuserdata/
+*.xcworkspace/xcuserdata/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.hmap
+*.ipa
+*.dSYM
+*.dSYM.zip
+.swiftpm/
+.DS_Store
+
+# 本地用户设置（不要提交）
+*.xcsettings
+UserInterfaceState.xcuserstate
+
+# 构建产物 / 缓存
+*.o
+*.mode1v3
+*~.nib
